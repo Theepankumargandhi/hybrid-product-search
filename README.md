@@ -35,6 +35,9 @@ hybrid-product-search/
 ├── unified_text_image.csv        # Metadata for text queries
 └── image_metadata.csv            # Metadata for image queries
 
+📁 Note: The full dataset and embeddings are not included due to size. 
+To replicate this project, follow the instructions in `data_preparation.md` (coming soon) or contact me for access.
+
 
 ## ⚙️ Setup Instructions
 
