@@ -1,0 +1,12 @@
+streamlit
+faiss-cpu
+sentence-transformers
+pandas
+scikit-learn
+numpy
+Pillow
+rank-bm25
+undetected-chromedriver
+selenium
+torch
+requests
