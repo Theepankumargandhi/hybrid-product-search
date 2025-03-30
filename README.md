@@ -54,3 +54,10 @@ pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 
 
+## 💼 Use Cases
+- E-commerce product recommendation and search
+- Retail product catalog matching
+- Visual + semantic product discovery
+
+
+
