@@ -35,3 +35,22 @@ hybrid-product-search/
 ├── unified_text_image.csv        # Metadata for text queries
 └── image_metadata.csv            # Metadata for image queries
 
+
+## ⚙️ Setup Instructions
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/Theepankumargandhi/hybrid-product-search.git
+cd hybrid-product-search
+
+# 2. (Optional) Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Run the app
+streamlit run app/streamlit_app.py
+
+
